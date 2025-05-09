@@ -52,3 +52,6 @@ THIS IS MY MUCH BETTER ATTEMPT
 
 ## Acknowledgments
 Thank you!!
+
+##References 
+DG added references 
